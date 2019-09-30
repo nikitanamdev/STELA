@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "427012332934",
+    "firebase_url": "https://stela-5107f.firebaseio.com",
+    "project_id": "stela-5107f",
+    "storage_bucket": "stela-5107f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427012332934:android:86b29609094fae2059e007",
+        "android_client_info": {
+          "package_name": "com.example.aneshkagoyal.stela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427012332934-gkj7eipdeo4agufjvrrm398ks7v76huo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aneshkagoyal.stela",
+            "certificate_hash": "f0ea8b55bc92918bbd5b6e27534cf9b55914a0bd"
+          }
+        },
+        {
+          "client_id": "427012332934-sdsdc1mnv1lq4b06q85arjonoqfln2r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKWWJ3l59JSNdMguI2haXCSV_ggCDM-1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427012332934-sdsdc1mnv1lq4b06q85arjonoqfln2r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
